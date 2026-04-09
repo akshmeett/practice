@@ -35,10 +35,10 @@ public class Test{
         // int totalPerChild = yearlyTotal/3;
 
         // int a = 10;
-        // int b = 20;
+        // int b = 20; 
         // int remainder = a % b;
         // System.out.println(remainder);
 
-        
+
     }
 } 
