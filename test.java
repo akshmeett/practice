@@ -8,6 +8,14 @@
 public class Test{
 
     public static void main(String[] args){
+        int a = 5;
+        System.out.println(Integer.toBinaryString(a)); 
+        //computers -> 0/1
+        //bitwise operator.. to operate with bits of numbers (byte, short, int, long)
+        //and operator &
+        //or operator /
+        //
+
         // int age = 20;
         // byte age1 = 20;
         // short age2 = 20;
@@ -38,7 +46,6 @@ public class Test{
         // int b = 20; 
         // int remainder = a % b;
         // System.out.println(remainder);
-
 
     }
 } 

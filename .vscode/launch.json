@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "bitwise",
+      "request": "launch",
+      "mainClass": "bitwise",
+      "projectName": "java testing_ddf14f0b"
+    },
+    {
+      "type": "java",
       "name": "Run Test",
       "request": "launch",
       "mainClass": "Test",
