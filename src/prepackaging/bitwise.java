@@ -1,3 +1,4 @@
+package prepackaging;
 public class bitwise {
 
     public static void main(String[] args){
@@ -21,7 +22,7 @@ public class bitwise {
     System.out.println(b); 
 
     System.out.println("-------------Left Shift Operator----------------");
-    //left shift << shfits bit to the left by some number n
+    //left shift << shifts bit to the left by some number n
     int ca = 5;
     System.out.println(Integer.toBinaryString(ca)); // prints 101
     int d = ca << 2;
@@ -51,5 +52,6 @@ public class bitwise {
     String abc = "Sum";
     System.out.println("Hello" + " " + "World"); // concatenation of strings
     System.out.println(abc + " : "+(ab+bc));
+    
     }
 }
