@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ConditionalStatements",
+      "request": "launch",
+      "mainClass": "postpackaging.ConditionalStatements",
+      "projectName": "java testing_ddf14f0b"
+    },
+    {
+      "type": "java",
+      "name": "TestStrings",
+      "request": "launch",
+      "mainClass": "postpackaging.TestStrings",
+      "projectName": "java testing_ddf14f0b"
+    },
+    {
+      "type": "java",
+      "name": "TestStudent",
+      "request": "launch",
+      "mainClass": "postpackaging.TestStudent",
+      "projectName": "java testing_ddf14f0b"
+    },
+    {
+      "type": "java",
       "name": "bitwise",
       "request": "launch",
       "mainClass": "bitwise",
