@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Loops",
+      "request": "launch",
+      "mainClass": "postpackaging.Loops",
+      "projectName": "practice_ee36df9b"
+    },
+    {
+      "type": "java",
       "name": "ConditionalStatements",
       "request": "launch",
       "mainClass": "postpackaging.ConditionalStatements",
