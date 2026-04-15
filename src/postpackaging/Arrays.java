@@ -10,7 +10,7 @@ public class Arrays {
             System.out.println(arr[i]);
         }//traversing an array
         System.out.println("-----------------------------");
-        int[] arr1 = new int[5];
+        //int[] arr1 = new int[5];
         int[] arr2 = {1, 2, 3, 4};
 
         for(int num : arr2){
@@ -27,7 +27,7 @@ public class Arrays {
         System.out.println("-----------------------------");
         System.out.println("-------------2D ARRAY------------");
 
-        int[][] twoDarr = new int[3][3]; //2d array of 3 rows by 4 columns
+        //int[][] twoDarr = new int[3][3]; //2d array of 3 rows by 4 columns
         int[][] matrix = {
             {1, 2, 3}, //matrix[0] will select first row
             {4, 5, 6}, 

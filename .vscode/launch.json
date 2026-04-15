@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "oopsconcepts.Test",
+      "projectName": "java testing_ddf14f0b"
+    },
+    {
+      "type": "java",
       "name": "Methods",
       "request": "launch",
       "mainClass": "postpackaging.Methods",
