@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "postpackaging.Arrays",
+      "projectName": "java testing_ddf14f0b"
+    },
+    {
+      "type": "java",
       "name": "Loops",
       "request": "launch",
       "mainClass": "postpackaging.Loops",
