@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Methods",
+      "request": "launch",
+      "mainClass": "postpackaging.Methods",
+      "projectName": "java testing_ddf14f0b"
+    },
+    {
+      "type": "java",
       "name": "Arrays",
       "request": "launch",
       "mainClass": "postpackaging.Arrays",
