@@ -1,7 +1,7 @@
 package oopsconcepts;
 
 public class grandParent {
-    //everyone inherts from grandParent class, name and age values.
+    //everyone inherits from grandParent class, name and age values.
     private String name;
     private int age;
     private boolean Superpowers;

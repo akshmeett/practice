@@ -8,6 +8,13 @@
       "type": "java",
       "name": "Test",
       "request": "launch",
+      "mainClass": "accessmodifiers.Test",
+      "projectName": "java testing_ddf14f0b"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
       "mainClass": "oopsconcepts.abstraction.Test",
       "projectName": "java testing_ddf14f0b"
     },
