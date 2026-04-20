@@ -6,31 +6,27 @@ public class Student {
     private int age;
     private int rollnumber;
 
-    // Getter for name
     public String getName() {
         return name;
     }
 
-    // Setter for name
     public void setName(String name) {
         this.name = name;
     }
 
-    // Getter for age
     public int getAge() {
         return age;
     }
 
-    // Setter for age
     public void setAge(int age) {
         if (age < 0) {
-            this.age = 0;
+            System.out.println("Age cannot be negative. Setting age to 0.");
+            this.age = 0; // Default to 0 if invalid age is provided
         } else {
             this.age = age;
         }
     }
 
-    // Getter for rollnumber
     public int getRollnumber() {
         return rollnumber;
     }
